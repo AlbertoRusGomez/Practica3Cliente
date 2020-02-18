@@ -1,0 +1,39 @@
+header {
+    background-color: grey;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background: url(https://vignette.wikia.nocookie.net/capcomdatabase/images/5/5a/RaccoonCityRPD.png/revision/latest?cb=20110519142023&format=original) no-repeat;
+    background-size: 100% 550%;
+}
+
+.nav {
+    overflow: hidden;
+}
+
+.armas {
+    background-color: white;
+    text-align: center;
+    color: grey;
+    margin: 0 auto;
+    width: 20%;
+    float: left;
+}
+
+.zombie {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.zombie img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align: center;
+    height: 50vh;
+}
